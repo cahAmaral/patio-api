@@ -37,26 +37,11 @@ Este projeto consiste em uma API RESTful desenvolvida com Spring Boot para contr
 
 ### Passos:
 
-1. Clone o repositório:
+1. Clone o repositório
 
-   ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
-   ```
+2. Acesse a pasta do projeto
 
-2. Acesse a pasta do projeto:
-
-   ```bash
-   cd nome-do-repositorio
-   ```
-
-3. Execute o projeto com sua IDE ou pelo terminal:
-
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
-4. Acesse o Swagger para testar a API:
-   [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+3. Execute o projeto com sua IDE ou pelo terminal
 
 ## Alunos
 
